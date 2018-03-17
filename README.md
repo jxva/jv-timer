@@ -1,6 +1,6 @@
-# A modern, high performance, efficient timer based rbtree using ANSI C
+# A modern, high performance, efficient task timer based rbtree using ANSI C
 
-A modern, high performance, efficient timer using ANSI C, based Red Black Tree (rbtree), you may be also see []https://gitee.com/jxva/jv-rbtree
+A modern, high performance, efficient task timer using ANSI C, based Red Black Tree (rbtree), you may be also see []https://github.com/jxva/jv-rbtree
 
 ## Features
 
