@@ -1,0 +1,13 @@
+.DS_Store
+
+*.o
+*.log
+*.layout
+*.depend
+*.stackdump
+*.exe
+
+jv_timer_main
+
+bin/
+obj/
